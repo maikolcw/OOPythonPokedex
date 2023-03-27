@@ -24,4 +24,4 @@ For this prototype, only pokemon queries support the expanded mode. Refer to the
 
 [--output "filename.txt"]
 
-If provided, a filename (with a .txt extension) must also be provided. and the query result should be printed to the specified text file.  If this flag is not provided, then print the result to the console. Be sure to print the file in a nicely formatted, readable manner.
+If provided, a filename (with a .txt extension) must also be provided. and the query result will be printed to the specified text file.  If this flag is not provided, then the result will be printed to the console. The file is printed in a nicely formatted, readable manner.
